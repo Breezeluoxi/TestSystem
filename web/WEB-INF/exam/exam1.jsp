@@ -21,7 +21,7 @@
 <!-- <script src="js/jquery.countdown.js"></script> -->
 <script>
 	/* var maxtime = 90 * 60;  *///一个小时，按秒计算，自己调整!  
-	var maxtime = 10 * 60;
+	var maxtime = 20 * 60;
 	timer = setInterval("cd()", 1000);
 
 	function cd() {
